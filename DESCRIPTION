@@ -1,0 +1,11 @@
+Package: solutionPackage
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2017-04-25
+Author: wei
+Maintainer: Wei <Wei.Ding@keyrus.com>
+Description: solution for exercice
+License: no license
+RoxygenNote: 6.0.1
+Suggests: testthat

@@ -1,0 +1,2 @@
+mafonction()
+mafonction("michel823")
